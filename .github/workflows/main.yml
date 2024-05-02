@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # her 6 saatte bir çalıştır
+    # Her 6 saatte bir çalıştır
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -11,12 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: "14" # veya Node.js 20 sürümüne güncelleyin
+          node-version: "20"
 
       - name: Generate the snake
         uses: Platane/snk@master
@@ -32,7 +33,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - name: Deploy to GitHub Pages
