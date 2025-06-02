@@ -50,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="sql" width="40" height="40"/>
   </a>
 
   <strong>Tools:</strong>  
