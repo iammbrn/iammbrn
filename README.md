@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> Ubuntu
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammbrn&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></p>
 
