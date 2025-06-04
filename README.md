@@ -49,8 +49,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> Ubuntu
 </p>
 
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammbrn&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammbrn&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" /></p>
