@@ -54,6 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammbrn&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammbrn&theme=vision-friendly-dark" alt="GitHub Streak" /></p>
-
-<!-- Snake Animation -->
-![snake gif](https://github.com/iammbrn/iammbrn/blob/output/github-contribution-grid-snake.gif)
