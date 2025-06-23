@@ -45,8 +45,8 @@
 
 **Frameworks & Libraries**  
 <p align="left">
-  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="40" height="40" style="background:white; border-radius:5px;"/> Flask &nbsp;
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" width="40" height="40" style="background:white; border-radius:5px;"/> SQLAlchemy
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Flask" width="40" height="40" style="background:none; border-radius:0;"/> Flask &nbsp;
+  <img src="https://raw.githubusercontent.com/sqlalchemy/sqlalchemy/main/logo/SQLAlchemy_Logo_icon_128.png" alt="SQLAlchemy" width="40" height="40" style="background:none; border-radius:0;"/> SQLAlchemy
 </p>
 
 **Tools**  
