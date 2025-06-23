@@ -43,6 +43,12 @@
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/> SQL
 </p>
 
+**Frameworks & Libraries**  
+<p align="left">
+  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="40" height="40" style="background:white; border-radius:5px;"/> Flask &nbsp;
+  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" width="40" height="40" style="background:white; border-radius:5px;"/> SQLAlchemy
+</p>
+
 **Tools**  
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git &nbsp;
