@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Baran</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Turkey</h3>
+<h3 align="center">A passionate AI Backend Developer from Turkey</h3>
 
 - 📝 I regularly write technical articles on [Medium](https://medium.com/@iammbrn)  
 - 📫 How to reach me: **iammbaran@gmail.com**  
